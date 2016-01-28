@@ -81,7 +81,6 @@ factor: term
                                                   default : cout << "Function Not Defined\n\t";
                                              }
                                         }
-            
           	;
 
 term: NUMBER
