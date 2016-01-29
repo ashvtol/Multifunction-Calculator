@@ -13,6 +13,9 @@ Multifunction Calculator, used Bison, Flex & C++ Libraries
 * Hit clear to clear the screen
 
 
+###Screens
+<img src="https://github.com/ashvtol/Multifunction-Calculator/tree/master/images/screen1.png" width="500px"></img>
+
 ###Functionality:
 ```
 +        Addition
