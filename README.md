@@ -13,11 +13,7 @@ Multifunction Calculator, used Bison, Flex & C++ Libraries
 * Hit clear to clear the screen
 
 
-Functionality:
-==============
-
-Binary Operators
----------
+###Functionality:
 ```
 +        Addition
 -        Subtraction
