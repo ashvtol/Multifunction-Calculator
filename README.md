@@ -23,17 +23,9 @@ Binary Operators
 -        Subtraction
 *        Multiplication
 /        Divison
-%        Modulo (Remainder)
-**       raise to the power of...
-^^       same as **
-&        Logical And
-and      same as &
-|        Logical Or
-or       same as |
-^        Logical Exclusive-Or
-xor      same as ^
-<<       Logical shift left (arithmetic shift for negative numbers)
->>       Logical shift right (arithmetic shift for negative numbers)
+| |		 abs
+^       raise to the power of...
+
 ```
 
 ###Preliminary Installation
