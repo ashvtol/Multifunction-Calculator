@@ -14,7 +14,7 @@ Multifunction Calculator, used Bison, Flex & C++ Libraries
 
 
 ###Screens
-<img src="https://github.com/ashvtol/Multifunction-Calculator/tree/master/images/screen1.png" width="500px"></img>
+<img src="https://github.com/ashvtol/Multifunction-Calculator/blob/master/images/screen1.png" width="500px"></img>
 
 ###Functionality:
 ```
