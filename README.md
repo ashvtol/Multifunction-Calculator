@@ -35,3 +35,24 @@ xor      same as ^
 <<       Logical shift left (arithmetic shift for negative numbers)
 >>       Logical shift right (arithmetic shift for negative numbers)
 ```
+
+###Preliminary Installation
+* Bison
+* Flex
+* C++ Compiler
+* MAKE Utility
+
+##Usage
+With MAKE utility
+```
+Navigate to the folder
+$ make
+```
+Without MAKE utility
+```
+Navigate to the folder
+bison bison_cal.y
+flex flex_cal.l
+g++ -w lex.yy.c -o cal
+./cal
+```
